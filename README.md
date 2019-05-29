@@ -3,6 +3,7 @@ Quick demo of tuned capabilities
 
 Tuned is a daemon that uses udev to monitor connected devices and statically and dynamically tunes system settings according to a selected profile. Tuned is distributed with a number of predefined profiles for common use cases
 
+### Notes
 Question: Ever opened a case or search KBase for best practices related to performance?
 * Answer: tuned
 * Predefined sysctl and sysfs settings, based on best practices and real-world workloads
@@ -55,4 +56,5 @@ Tuning plug-ins
 
 Dynamic tuning is globally disabled in Red Hat Enterprise Linux and can be enabled by editing the ```/etc/tuned/tuned-main.conf``` file and changing the ```dynamic_tuning``` flag to 1
 
-[Reference Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/performance_tuning_guide/chap-red_hat_enterprise_linux-performance_tuning_guide-tuned)
+### References and Resources
+* [Red Hat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/performance_tuning_guide/chap-red_hat_enterprise_linux-performance_tuning_guide-tuned)

@@ -7,25 +7,25 @@
 ### Walk Thru
 To view the available installed profiles:
 ```
-# tuned-adm list
+      # tuned-adm list
 ```
 
 To view the currently activated profile (also in list cmd):
 ```
-# tuned-adm active
+      # tuned-adm active
 ```
 
 To select or activate a profile:
 ```
-# tuned-adm profile <profile_name>
+      # tuned-adm profile <profile_name>
 ```
 
 To let tuned recommend you the best suitable profile for your system without changing any existing profiles:
 ```
-# tuned-adm recommend
+      # tuned-adm recommend
 ```
 
 To disable all tuning:
 ```
-# tuned-adm off
+      # tuned-adm off
 ```
