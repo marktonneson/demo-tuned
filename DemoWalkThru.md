@@ -1,7 +1,7 @@
 ## Demo WalkThru
 
 ### Requirements
-* Optional: VM running RHEL 6 or 7 (7.latest preferred)
+* Optional: VM running RHEL 7.latest or RHEL 8.latest
 * This demo does not ask you to apply any changes so any RHEL instance should suffice
 
 ### Walk Thru
