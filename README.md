@@ -12,7 +12,7 @@ Tuned provides recommended configurations for common workloads
 * Easy to apply
 * Easy to customize
 * Persists across reboots
-* Installed and enabled with RHEL 7
+* Installed and enabled with RHEL 7 and RHEL 8
 * Available for RHEL 6 as well
 
 Number of predefined profiles for common use cases:
