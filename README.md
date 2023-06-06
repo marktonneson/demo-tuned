@@ -57,4 +57,5 @@ Tuning plug-ins
 Dynamic tuning is globally disabled in Red Hat Enterprise Linux and can be enabled by editing the ```/etc/tuned/tuned-main.conf``` file and changing the ```dynamic_tuning``` flag to 1
 
 ### References and Resources
-* [Red Hat Documentation](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/performance_tuning_guide/chap-red_hat_enterprise_linux-performance_tuning_guide-tuned)
+* [Red Hat Documentation - RHEL 7](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/performance_tuning_guide/chap-red_hat_enterprise_linux-performance_tuning_guide-tuned)
+* [Red Hat Documentation - RHEL 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/automating_system_administration_by_using_rhel_system_roles/index)
